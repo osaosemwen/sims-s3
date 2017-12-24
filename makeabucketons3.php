@@ -18,7 +18,7 @@ $result = $client->createBucket(array(
 echo "<h1 align=\"center\">HI Cloud Developers!</h1>";
 echo "<div align = \"center\"><img src=\"https://s3-us-west-1.amazonaws.com/mikesimpletutorial/images/cloud-network-map.jpg\"></img></div>";
 echo "<h2 align=\"center\">You have successfully created a bucket called {$bucket} you can check and confirm this!!</h2>";
-echo "<div align=\"center\"><a href=\"makefile.php?bucket=$bucket\"> You can click Here to Continue</a></div>";
+echo "<div align=\"center\"><a href=\"makefile.php?bucket=$bucket&key=$key\"> You can click Here to Continue</a></div>";
 ?>
 
 
