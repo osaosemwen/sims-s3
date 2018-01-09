@@ -1,9 +1,0 @@
-﻿This version shows how to deploy PHP guestbook using minikube, It is pertinent to have cluster deployed and the command-line tool must be able to communicate with the cluster. 
-To do this simply enter the following
- $ minikube start
- then enter 
- $ kubectl get pods
- 
- Download the following links to your application folder
-1)  redis-master-deployment
-2)
