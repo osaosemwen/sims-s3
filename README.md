@@ -18,3 +18,6 @@ WHen the instance is completely launched, use the copy the instance public IP ad
 
 I currently deployed a serverless Text to Audio application using Polly on AWS. Its quite cool, using S3, Lambda functions, DynamoDB, APIs, SNS, and S3 buckets.
 here is the link: https://s3.amazonaws.com/osespractice-polly-website2018/index.html
+
+WHen I connect this to Alexa, I would create its repository.
+Thanks!!
